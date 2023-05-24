@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nadezhda Stoyanova.
-- I'am 19 years old, living and studying in Sofia.
+- ♏I'am 19 years old, living and studying in Sofia.
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C# in SoftUni
 
