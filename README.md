@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Nadezhda2703
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C#
+- 👋 Hi, I’m Nadezhda Stoyanova.
+- I'am 19 years old, living and studying in Sofia.
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning C# in SoftUni
 
 
 
